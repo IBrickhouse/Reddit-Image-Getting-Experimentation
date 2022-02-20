@@ -1,4 +1,3 @@
-#import sys
 from RedditReader import Subreddit
 from PIL import Image
 import requests
